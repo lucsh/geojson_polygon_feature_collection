@@ -1,5 +1,5 @@
 {
-  "name": "geojson_point_feature_collection_example",
+  "name": "geojson_polygon_feature_collection_example",
   "version": "0.1.0",
   "description": "",
   "main": "./src/server.js",
@@ -7,7 +7,7 @@
     "start": "nodemon ./src/server.js --exec babel-node -e js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "LDP",
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-plugin-transform-async-generator-functions": "^6.24.1",
